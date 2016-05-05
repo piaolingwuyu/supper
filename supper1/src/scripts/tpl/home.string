@@ -1,0 +1,138 @@
+<div class='home'>
+	<header>
+		<div id="first">蓝剑.牧马岛.超级农场</div>
+		<div class='yo-ico'>&#xe608;</div>
+		<div class='yo-ico'>&#xe61b;</div>
+	</header>
+	<section spa-widget='scroll'>
+	<div>
+		<nav>
+			<div class='swiper-container' id="homeshow">
+				<div class="swiper-pagination" id='bar'></div>
+				<div class='swiper-wrapper'>
+					<div class='swiper-slide'><img src='/supper/img/1.gif'></div>
+					<div class='swiper-slide'><img src='/supper/img/2.gif'></div>
+					<div class='swiper-slide'><img src='/supper/img/3.gif'></div>
+					<div class='swiper-slide'><img src='/supper/img/4.gif'></div>
+				</div>
+			</div>
+			<div class='showfoot'><img src='/supper/img/5.gif'></div>
+		</nav>
+		<div class='check'>
+			<ul>
+				<li action-type='tap.touch'> <img src='/supper/img/check.png'></li>
+				<li action-type='tap.touch'> <img src='/supper/img/check2.png'></li>
+			</ul>
+		</div>
+		<ul class='ul1'>
+	      <li class='li1'><img src='/supper/img/images/show1.gif'></li>
+	      <li class='li2'>
+             <ul>
+                <li class='li4'>
+                   <img src='/supper/img/images/show1-1-1.gif' class='img1'>
+                   <img src='/supper/img/images/show1-1-2.gif'>
+                </li>
+                <li class='li3'>
+                   <div class='div1'><img src='/supper/img/images/show1-1.gif'></div>
+                   <div class='div2'>
+                     <img src='/supper/img/images/show1-2.gif'>
+                     <img src='/supper/img/images/show1-3.gif' class='img'>
+                   </div>
+                </li>
+             </ul>
+	      </li>
+	    </ul>
+	    <ul class='ul1'>
+	      <li class='li1'><img src='/supper/img/images/show2-1-1.gif'></li>
+	      <li class='li2'>
+             <ul>
+                <li class='li4'>
+                   <img src='/supper/img/images/show2.gif' class='img1'>
+                   <img src='/supper/img/images/show2-1-2.gif'>
+                </li>
+                <li class='li3'>
+                   <div class='div1'><img src='/supper/img/images/show2-1.gif'></div>
+                   <div class='div2'>
+                     <img src='/supper/img/images/show2-2.gif'>
+                     <img src='/supper/img/images/show2-3.gif' class='img'>
+                   </div>
+                </li>
+             </ul>
+	      </li>
+	    </ul>
+	    <ul class='ul1'>
+	      <li class='li1'><img src='/supper/img/images/show3.gif'></li>
+	      <li class='li2'>
+             <ul>
+                <li class='li4'>
+                   <img src='/supper/img/images/show3-1-1.gif' class='img1'>
+                   <img src='/supper/img/images/show3-1-2.gif'>
+                </li>
+                <li class='li3'>
+                   <div class='div1'><img src='/supper/img/images/show3-1.gif'></div>
+                   <div class='div2'>
+                     <img src='/supper/img/images/show3-2.gif'>
+                     <img src='/supper/img/images/show3-3.gif' class='img'>
+                   </div>
+                </li>
+             </ul>
+	      </li>
+	    </ul>
+	    <ul class='ul1'>
+	      <li class='li1'><img src='/supper/img/images/show4.gif'></li>
+	      <li class='li2'>
+             <ul>
+                <li class='li4'>
+                   <img src='/supper/img/images/show4-1-1.gif' class='img1'>
+                   <img src='/supper/img/images/show4-1-2.gif'>
+                </li>
+                <li class='li3'>
+                   <div class='div1'><img src='/supper/img/images/show4-1.gif'></div>
+                   <div class='div2'>
+                     <img src='/supper/img/images/show4-2.gif'>
+                     <img src='/supper/img/images/show4-3.gif' class='img'>
+                   </div>
+                </li>
+             </ul>
+	      </li>
+	    </ul>
+	    <ul class='ul1'>
+	      <li class='li1'><img src='/supper/img/images/show5.gif'></li>
+	      <li class='li2'>
+             <ul>
+                <li class='li4'>
+                   <img src='/supper/img/images/show5-1-1.gif' class='img1'>
+                   <img src='/supper/img/images/show5-1-2.gif'>
+                </li>
+                <li class='li3'>
+                   <div class='div1'><img src='/supper/img/images/show5-1.gif'></div>
+                   <div class='div2'>
+                     <img src='/supper/img/images/show5-2.gif'>
+                     <img src='/supper/img/images/show5-3.gif' class='img'>
+                   </div>
+                </li>
+             </ul>
+	      </li>
+	    </ul>
+	    <ul class='ul1' id='last'>
+	      <li class='li1'><img src='/supper/img/images/show6.gif'></li>
+	      <li class='li2'>
+             <ul>
+                <li class='li4'>
+                   <img src='/supper/img/images/show6-1-1.gif' class='img1'>
+                   <img src='/supper/img/images/show6-1-2.gif'>
+                </li>
+                <li class='li3'>
+                   <div class='div1'><img src='/supper/img/images/show6-1.gif'></div>
+                   <div class='div2'>
+                     <img src='/supper/img/images/show6-2.gif'>
+                     <img src='/supper/img/images/show6-3.gif' class='img'>
+                   </div>
+                </li>
+             </ul>
+	      </li>
+	    </ul>
+	</div>
+    
+   </section>
+</div>

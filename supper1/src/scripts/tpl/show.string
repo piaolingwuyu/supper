@@ -1,0 +1,15 @@
+<div class='show'>
+   <div class='head'>
+      <div class='div1'></div>
+      <div action-type='back'><span class='yo-ico'>&#xe654;</span><span>返回</span></div>
+      <p>"<span ms-text='title'></span>"<span>搜索结果</span></p>
+   </div>
+   <section>
+      <div>
+         <div class='btn'>
+            <p>对不起，暂时没有"<span ms-text='title'></span>"的相关信息</p>
+            <div action-type='back'>返回重新搜索</div>
+         </div>
+      </div>
+   </section>
+</div>

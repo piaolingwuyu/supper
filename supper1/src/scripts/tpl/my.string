@@ -1,0 +1,35 @@
+<div class='my'>
+  <div class='head'>
+      <span>个人中心</span>
+      <span class='yo-ico'>&#xe61b;</span>
+  </div>
+  <section spa-widget='scroll'>
+     <div>
+        <div class='pic' action-type='tap.touch'>
+            <img src='/supper/img/images/img1.gif' action-type='logs'/>
+        </div>
+        <ul class='con'>
+	        <li><span class='yo-ico'>&#xe61a;</span>待付款</li>
+	        <li><span class='yo-ico'>&#xe61e;</span>待收货</li>
+	        <li><span class='yo-ico'>&#xe605;</span>全部订单</li>
+        </ul>
+        <ul class='ccc'>
+           <li>
+            <img src='/supper/img/images/1.gif'>
+            <img src='/supper/img/images/2.gif'>
+           </li>
+           <li> 
+           	 <img src='/supper/img/images/3.gif'>
+           	 <img src='/supper/img/images/4.gif'>
+           	 <img src='/supper/img/images/5.gif'>
+           </li>
+           <li>
+             <img src='/supper/img/images/6.gif'>
+           </li>
+           <li>
+             <img src='/supper/img/images/7.gif'>
+           </li>
+        </ul>
+     </div>
+  </section>
+</div>

@@ -1,0 +1,9 @@
+<div class='shopcar'>
+    <div class="head2">
+        <p action-type='tap1'><span class='yo-ico'>&#xe604;</span><span ms-text='content'></span><span class='yo-ico'>&#xe601;</span></p>
+    </div>
+    <section>
+        <p>购物车暂时没有商品</p>
+        <div action-type='tap.touch'>随便逛逛</div>
+    </section>
+</div>

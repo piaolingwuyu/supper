@@ -1,0 +1,39 @@
+<div class='search'>
+   <header>
+        <div></div>
+        <input type="text" class="yo-input" placeholder="输入商品或品牌关键字" maxlength=10 />
+        <span action-type='tap'>搜索</span>
+        <img src='/supper/img/search2.png' action-type="clear">
+   </header>
+   <section spa-widget='scroll'>
+        <div>
+       <div class='section-top'>
+          <p>牧马岛推荐</p>
+          <ul>
+            <li>
+	            <span action-type='tap.touch' data-tag='冰川时代'>冰川时代</span>
+	            <span action-type='tap.touch' data-tag='唯怡'>唯怡</span>
+	            <span action-type='tap.touch' data-tag='苏打水'>苏打水</span>
+            </li>
+            <li>
+	            <span action-type='tap.touch' data-tag='有机'>有机</span>
+	            <span action-type='tap.touch' data-tag='农场'>农场</span>
+	            <span action-type='tap.touch' data-tag='大米'>大米</span>
+            </li>
+            <li>
+              <span action-type='tap.touch' data-tag='联盟'>联盟</span>
+              <span action-type='tap.touch' data-tag='进口'>进口</span>
+              <span action-type='tap.touch' data-tag='奶'>奶</span>
+            </li>
+          </ul>
+       </div>
+       <div>
+          <p><span>搜索数据</span><span action-type='remove'>清除搜索数据</span></p>
+          <div class="second">
+              
+          </div>
+       </div>
+       </div> 
+   </section>
+
+</div>

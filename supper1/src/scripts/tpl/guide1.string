@@ -1,0 +1,8 @@
+<div id='guide1' class='swiper-container'>
+   <div class='swiper-wrapper'>
+      <div class='swiper-slide'><img src='/supper/img/img2_02.gif'></div>
+      <div class='swiper-slide'><img src='/supper/img/img3_02.gif'></div>
+      <div class='swiper-slide'><img src='/supper/img/img4_02.gif'></div>
+      <div class='swiper-slide' action-type='tap.index'><img src='/supper/img/img5_02.gif'></div>
+   </div>
+</div>

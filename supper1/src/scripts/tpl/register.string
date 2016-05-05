@@ -1,0 +1,22 @@
+<div class='register'>
+   <div class='head'>
+      <div class='div1'></div>
+      <p action-type='back2'><span class='yo-ico'>&#xe654;</span><span>返回</span></p>
+      <div class='last'>填写手机号码</div>
+   </div>
+   <section>
+       <div>
+          <div class='first'>
+             <p></p>
+             <div>
+               <input type='text' placeholder='手机号' class='firstc'>
+               <div class='div1' action-type='get'>获取验证码</div>
+               <input type='text' placeholder='填写验证码' class='last' ms-duplex='title'/>
+             </div>
+             <p></p>
+          </div>
+          <p class='three'><img src='/supper/img/images/images/15.gif'><span>接受《牧马岛注册协议》（默认接受）</span></p>
+          <div class='second' ><p action-type='tt'>下一步</p></div>
+       </div>
+   </section>
+</div>

@@ -1,0 +1,21 @@
+<div class='login'>
+   <div class='head'>
+      <div class='div1'></div>
+      <p action-type='back1'><span class='yo-ico'>&#xe654;</span><span>返回</span></p>
+      <div class='last'>登录</div>
+   </div>
+   <section>
+       <div>
+          <div class='first'>
+             <p></p>
+             <div>
+               <input type='text' placeholder='手机号' class='firstc'>
+               <input type='text' placeholder='密码（6-20位数字或字母）' class='last'>
+             </div>
+             <p></p>
+          </div>
+          <div class='second' ><p action-type='tt'>登录</p></div>
+          <div class='three'><a href='javascript:' action-type='register'>免费注册</a><a href="javascript:" action-type='forget'>忘记密码</a></div>
+       </div>
+   </section>
+</div>

@@ -1,0 +1,143 @@
+.home{
+     width:100%;
+     height:100%;
+     @include flexbox(flex);
+     @include flex-direction(column);
+      header{
+       height:0.5rem;
+       color:#a0d0b5;
+       background:white;
+       line-height:0.5rem;
+       @include flexbox(flex);
+      .yo-ico{
+         width:0.39rem;
+         height:0.50rem;
+         font-size:0.15rem;
+       }
+       #first{
+          @include flex(1);
+          width:100%;
+          font-size:0.13rem;
+          text-align:center;
+       }
+     }
+section{
+         @include flex(1);
+         width:100%;
+         background:white;
+     div{
+	     width:100%;
+
+     nav{
+        height:1.15rem;
+        @include flexbox(flex);
+        @include flex-direction(column);
+        #homeshow{
+          @include flex(1);
+          width:100%;
+          .swiper-wrapper{
+           .swiper-slide{
+             img{
+              width:100%;
+             }
+           }
+          }
+        }
+        
+       .showfoot{
+	        height:0.19rem;
+	        img{
+	        height:100%;
+	        width:100%;
+	        }
+          }
+      }
+      .check{
+          height:0.83rem;
+          @include flexbox(flex);
+          @include justify-content(center);
+          text-align:center;
+          background:url('/supper/img/images/bg_02.gif') center center no-repeat;
+          background-size:100% 100%;
+          padding:0 0.62rem;
+          @include box-sizing(border-box);
+          >ul{
+              
+              @include flexbox(flex);
+              width:1.96rem;
+              >li{
+                @include flex(1);
+                padding-top:0.05rem;
+                img{
+                 width:100%;
+                }
+                
+            }
+
+        }
+
+        }
+        .ul1{
+            width:100%;
+            padding:0 0.04rem 0.04rem 0.04rem;
+            @include box-sizing(border-box);
+           .li1{
+             width:100%;
+             img{
+               width:100%;
+             }
+
+           }
+           .li2{
+             width:100%;
+             padding-top:0.04rem;
+             ul{
+               width:100%;
+               height:100%;
+               @include flexbox(flex);
+               li{
+                 height:100%;
+                 @include flex(1);
+                 img{
+                  width:100%;
+                 }
+               }
+               .li4{
+                  padding-right:0.04rem;
+                .img1{
+                    padding-bottom:0.04rem;
+                 }
+               }
+               .li3{
+                  height:100%;
+                  @include flexbox(flex);
+                  @include flex-direction(column);
+                  .div2{
+                     padding-top:0.04rem;
+                     @include flexbox(flex);
+                     img{
+                      @include flex(1);
+                      width:50%;
+                      height:25%;
+                      &.img{
+                       padding-left:0.04rem;
+                      }
+                     }
+                  }
+               }
+             }
+           }
+        }
+        #last{
+           padding-bottom:0.40rem;
+        }
+       }
+	
+      }
+     }
+
+     
+   
+
+
+   

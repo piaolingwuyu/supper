@@ -1,0 +1,62 @@
+<div class='show2'>
+   <div class='head'>
+      <div class='div1'></div>
+      <div action-type='back'><span class='yo-ico'>&#xe654;</span><span>返回</span></div>
+      <p><span>搜索结果</span></p>
+   </div>
+   <div class='nav'>
+      <p><span>销量</span><span></span></p>
+      <p><span>价格</span><span></span></p>
+   </div>
+   <section class='wrapper'>
+      <div>
+         <div class="head1">
+            <img src="/supper/img/arrow.png" >
+            <p><span>下拉刷新...</span><span id='time' ms-html='time1'></span></p>
+
+        </div>
+         <ul>
+           <li>
+              <img src='/supper/img/images/images/1.gif'>
+              <p><span class='lst'>皇族金辉茉莉香米2kg</span><span>￥45.00</span></p>
+           </li>
+           <li>
+              <img src='/supper/img/images/images/2.gif'>
+              <p><span class='lst'>西班牙进口欧丽湾特级橄榄油250ml</span><span>￥56.00</span></p>
+           </li>
+           <li>
+              <img src='/supper/img/images/images/3.gif'>
+              <p><span class='lst'>西班牙欧丽湾特级橄榄油500ml</span><span>￥83.00</span></p>
+           </li>
+           <li>
+              <img src='/supper/img/images/images/4.gif'>
+              <p><span class='lst'>西班牙进口佩雷斯有机橄榄油250ml</span><span>￥128.00</span></p>
+           </li>
+           <li>
+              <img src='/supper/img/images/images/5.gif'>
+              <p><span class='lst'>西班牙进口佩雷斯有机橄榄油500ml</span><span>￥256.00</span></p>
+           </li>
+           <li>
+              <img src='/supper/img/images/images/6.gif'>
+              <p><span class='lst'>美国进口戴维尔红茶（125g铁罐装）</span><span>￥152.00</span></p>
+           </li>
+           <li>
+              <img src='/supper/img/images/images/7.gif'>
+              <p><span class='lst'>美国进口戴维尔红茶（37.5g纸盒装）</span><span>￥164.00</span></p>
+           </li>
+           <li>
+              <img src='/supper/img/images/images/8.gif'>
+              <p><span class='lst'>西班牙佩雷斯有机橄榄油1L</span><span>￥218.00</span></p>
+           </li>
+           <li>
+              <img src='/supper/img/images/images/9.gif'>
+              <p><span class='lst'>私人农场主招募</span><span>￥1000.00</span></p>
+           </li>
+         </ul>
+          <div class="foot">
+            <img src="/supper/img/arrow.png" >
+            <span>下拉刷新...</span>
+        </div>
+      </div>
+   </section>
+</div>

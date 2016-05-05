@@ -1,0 +1,16 @@
+<div class='dialog'>
+  <div class='head'>
+      <p>请输入城市</p>
+      <div action-type='close'>x</div>
+  </div>
+  <section spa-widget='scroll'>
+     <div>
+       <ul id='ul'>
+          <li ms-repeat='list' action-type='tap2'><span ms-text='el' class='second'></span><span class="yo-ico">&#xe66a;</span></li>
+       </ul>
+     </div>
+  </section>
+  <div class='foot'>
+     <div action-type='tap4'>上一步</div>
+  </div>
+</div>

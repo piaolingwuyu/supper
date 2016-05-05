@@ -1,0 +1,72 @@
+.my{
+	width:100%;
+	@include flexbox(flex)
+    @include flex-direction(column);
+	.head{
+	   height:0.50rem;
+	   position:relative;
+	   background:#218d51;
+	   color:white;
+	   line-height:0.50rem;
+	   font-size:0.18rem;
+	   &:not(:nth-child(2)){
+        @include flex(1);
+        width:100%;
+        text-align:center;
+	   }
+	  .yo-ico{
+	    position:absolute;
+	    top:0;
+	    right:0.16rem;
+	   }
+	}
+	section{
+	    position:relative;
+        @include flex(1);
+        width:100%;
+	   div{
+	     width:100%;
+	     @include flexbox(flex);
+	     @include flex-direction(column);
+	     @include box-sizing(border-box);
+	     .pic{
+	        img{
+	          width:100%;
+	        }
+	     }
+	     .con{ 
+	        height:0.63rem;
+	        background:white;
+	        @include flexbox(flex);
+	        @include border(0 0 0.07rem 0 ,#efefef);
+	        li{
+	          @include flex(1);
+	          width:100%;
+	          font-size:0.12rem;
+	          text-align:center;
+	          color:#1f1f1f;
+              .yo-ico{
+               font-size:0.25rem;
+               line-height:0.63rem;
+              }
+	        }
+	     }
+	     .ccc{
+	        @include flex(1);
+	        width:100%;
+	        @include flexbox(flex);
+	        @include flex-direction(column);
+	        padding-bottom:0.45rem;
+	        li{
+	           @include flex(1);
+	           width:100%;
+	           @include border(0 0 0.10rem 0,#eeeeee)
+	          img{
+	            width:100%;
+	          }
+	         
+	        }
+	     }
+	   }
+	}
+}

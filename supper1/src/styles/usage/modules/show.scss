@@ -1,0 +1,58 @@
+.show{
+	width:100%;
+	height:100%;
+	@include flexbox(flex);
+	@include flex-direction(column);
+	.head{
+       height:0.50rem;
+       background:#218d51;
+       color:white;
+       line-height:0.50rem;
+       @include flexbox(flex);
+       @include box-sizing(border-box);
+       position:relative;
+       div{
+           position:absolute;
+           left:0.15rem;
+           top:0;
+           width:0.67rem;
+          .yo-ico{
+             font-size:0.20rem;
+             margin-right:0.05rem;
+             
+          }
+          &:last-child{
+             font-size:0.14rem;
+          }
+       }
+      p{
+        @include flex(1);
+        width:100%;
+        font-szie:0.19rem;
+        text-align:center;
+      } 
+	}
+	section{
+	    @include flex(1);
+	    width:100%;
+	    @include flexbox(flex);
+	    @include justify-content(center);
+	    @include align-items(center);
+	    .btn{
+	        width:100%;
+	        text-align:center;
+	        font-size:0.14rem;
+	         p{
+	           color:#cecece;
+	           margin-bottom:0.05rem;
+	         }
+	        div{
+	          height:0.32rem;
+	          line-height:0.32rem;
+	          background:#0b9654;
+	          color:white;
+
+	        }
+	    }
+	}
+}
